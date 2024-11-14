@@ -1,1 +1,1 @@
-Progetto Esp32-Car IR realizzato in collaborazione con [gambaaaa](https://github.com/gambaaaa)
+Progetto Esp32-Car IR realizzato in collaborazione con @[gambaaaa](https://github.com/gambaaaa)
